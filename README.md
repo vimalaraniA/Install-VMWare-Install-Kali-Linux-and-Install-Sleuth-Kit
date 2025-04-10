@@ -15,7 +15,7 @@ Create a new virtual machine in VMware using the Kali Linux ISO, configure the h
 
 ### Step 3:
 
-Open the terminal in Kali Linux and run the command sudo apt install sleuthkit to install Sleuth Kit. Verify installation using tsk_recover --help.
+Open the terminal in Kali Linux and run the command sudo apt install sleuthkit to install Sleuth Kit.
 
 ## PROGRAM:
 
